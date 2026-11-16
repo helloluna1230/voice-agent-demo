@@ -1,0 +1,6 @@
+azure-identity
+python-dotenv
+PyYAML
+jsonschema
+websockets>=14
+sounddevice>=0.5
